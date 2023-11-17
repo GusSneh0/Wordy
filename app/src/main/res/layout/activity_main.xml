@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/editTextText26"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintStart_toEndOf="@+id/editTextText27"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText25"
+        />
+
+    <EditText
+        android:id="@+id/editTextText29"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="25dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText24" />
+
+    <EditText
+        android:id="@+id/editTextText30"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintStart_toEndOf="@+id/editTextText28"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText23" />
+
+    <EditText
+        android:id="@+id/editTextText27"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="1dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintStart_toEndOf="@+id/editTextText29"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText21" />
+
+    <EditText
+        android:id="@+id/editTextText28"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintStart_toEndOf="@+id/editTextText26"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText22" />
+
+    <EditText
+        android:id="@+id/editTextText25"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintStart_toEndOf="@+id/editTextText21"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText19" />
+
+    <EditText
+        android:id="@+id/editTextText21"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:ems="10"
+        android:inputType="text"
+        app:layout_constraintStart_toEndOf="@+id/editTextText24"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText14" />
+
+    <EditText
+        android:id="@+id/editTextText22"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintStart_toEndOf="@+id/editTextText25"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText15" />
+
+    <EditText
+        android:id="@+id/editTextText23"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintStart_toEndOf="@+id/editTextText22"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText17" />
+
+    <EditText
+        android:id="@+id/editTextText24"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="25dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText13" />
+
+    <EditText
+        android:id="@+id/editTextText16"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintStart_toEndOf="@+id/editTextText18"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText8" />
+
+    <EditText
+        android:id="@+id/editTextText12"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintStart_toEndOf="@+id/editTextText16"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText9" />
+
+    <EditText
+        android:id="@+id/editTextText13"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="25dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText11" />
+
+    <EditText
+        android:id="@+id/editTextText14"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintStart_toEndOf="@+id/editTextText13"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText18" />
+
+    <EditText
+        android:id="@+id/editTextText15"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintStart_toEndOf="@+id/editTextText19"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText12" />
+
+    <EditText
+        android:id="@+id/editTextText17"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintStart_toEndOf="@+id/editTextText15"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText20" />
+
+    <EditText
+        android:id="@+id/editTextText18"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintStart_toEndOf="@+id/editTextText11"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText7" />
+
+    <EditText
+        android:id="@+id/editTextText19"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintStart_toEndOf="@+id/editTextText14"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText16" />
+
+    <EditText
+        android:id="@+id/editTextText20"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintStart_toEndOf="@+id/editTextText12"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText10" />
+
+    <EditText
+        android:id="@+id/editTextText11"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="25dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText6" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="119dp"
+        android:layout_marginTop="57dp"
+        android:layout_marginEnd="120dp"
+        android:text="WORDY"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/editTextText3"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:layout_marginTop="30dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintStart_toEndOf="@+id/editTextText2"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+    <EditText
+        android:id="@+id/editTextText"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="106dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintBottom_toTopOf="@+id/editTextText6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/editTextText6"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="25dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText" />
+
+    <EditText
+        android:id="@+id/editTextText7"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintStart_toEndOf="@+id/editTextText6"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText2" />
+
+    <EditText
+        android:id="@+id/editTextText9"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintStart_toEndOf="@+id/editTextText8"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText4" />
+
+    <EditText
+        android:id="@+id/editTextText10"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintStart_toEndOf="@+id/editTextText9"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText5" />
+
+    <EditText
+        android:id="@+id/editTextText2"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:layout_marginTop="106dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintStart_toEndOf="@+id/editTextText"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/editTextText8"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintStart_toEndOf="@+id/editTextText7"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText3" />
+
+    <EditText
+        android:id="@+id/editTextText5"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:layout_marginTop="106dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintStart_toEndOf="@+id/editTextText4"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/editTextText4"
+        android:layout_width="47dp"
+        android:layout_height="42dp"
+        android:layout_marginTop="106dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLength="1"
+        app:layout_constraintStart_toEndOf="@+id/editTextText3"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="68dp"
+        android:layout_marginTop="254dp"
+        android:layout_marginEnd="252dp"
+        android:onClick="addWord"
+        android:text="Back"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText26" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

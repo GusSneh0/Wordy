@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "528400955845",
+    "project_id": "wordy-a5db8",
+    "storage_bucket": "wordy-a5db8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528400955845:android:4872476ff3de67a4b473ac",
+        "android_client_info": {
+          "package_name": "com.example.wordy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2xHqQPblcvrDUjHXIxBw35F-3gs56gG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
